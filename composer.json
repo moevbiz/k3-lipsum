@@ -1,5 +1,5 @@
 {
-    "name": "moevbiz/lipsum",
+    "name": "moevbiz/k3-lipsum",
     "description": "Kirby 3 Plugin wrapper around php-loremipsum",
     "type": "kirby-plugin",
     "license": "MIT",

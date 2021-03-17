@@ -2,7 +2,7 @@
 
 @include_once __DIR__ . '/vendor/autoload.php';
 
-Kirby::plugin('bruno/lipsum', [
+Kirby::plugin('moevbiz/lipsum', [
     'pageMethods' => [
         'lipsum' => function () {
             return new joshtronic\LoremIpsum();

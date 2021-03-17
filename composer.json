@@ -1,0 +1,20 @@
+{
+    "name": "bruno/lipsum",
+    "description": "Kirby 3 Plugin wrapper around php-loremipsum",
+    "type": "kirby-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bruno",
+            "email": "moev.biz@moev.biz"
+        },
+        {
+            "name": "James Steel",
+            "email": "hello@hashandsalt.com"
+        }
+    ],
+    "require": {
+        "getkirby/composer-installer": "^1.1",
+        "joshtronic/php-loremipsum": "dev-master"
+    }
+}
